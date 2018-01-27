@@ -1,0 +1,36 @@
+{
+  "name": "quickly-count-substrings",
+  "version": "0.0.0",
+  "description": "Fast module for counting the number of occurrences of a substring inside a string",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "standard && node test.js",
+    "bench": "(cd benchmark && ./benchmark.sh)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/quickly-count-substrings.git"
+  },
+  "keywords": [
+    "string",
+    "substring",
+    "substr",
+    "sub",
+    "count",
+    "counting",
+    "number",
+    "occurrence",
+    "occurrences"
+  ],
+  "author": "Thomas Watson <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/quickly-count-substrings/issues"
+  },
+  "homepage": "https://github.com/watson/quickly-count-substrings#readme"
+}
