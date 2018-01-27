@@ -1,6 +1,6 @@
 {
   "name": "quickly-count-substrings",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fast module for counting the number of occurrences of a substring inside a string",
   "main": "index.js",
   "dependencies": {},
@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/watson/quickly-count-substrings/issues"
   },
-  "homepage": "https://github.com/watson/quickly-count-substrings#readme"
+  "homepage": "https://github.com/watson/quickly-count-substrings#readme",
+  "coordinates": [
+    56.009727,
+    11.961476
+  ]
 }
